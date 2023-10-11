@@ -1,5 +1,9 @@
 # Hi, I'm Walter Alarcón Garcés! 👋
 
+## Select a language / Selecciona un idioma
+- [English](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ad4a4ca766627cebafe6bc7c8684561488b356ab/README.md)
+- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ad4a4ca766627cebafe6bc7c8684561488b356ab/LEEME.md)
+
 
 ## Author 😉
 - My name is Walter Alarcón Garcés, a Chilean programmer and poet who has a great passion for computers and technology. Since I was very young, I was interested in the digital world and its possibilities to create, communicate and transform. I studied civil engineering for a while at the University of Chile and specialized in web and mobile application development through some bootcamps. I have also recorded several books of poetry, where I explore themes such as identity, love, nature and society. I consider myself a curious person, creative and committed to my work and ideals. I like to learn new things, share my knowledge and collaborate with other professionals in the technological and literary fields.
