@@ -9,7 +9,9 @@
 - My name is Walter Alarcón Garcés, a Chilean programmer and poet who has a great passion for computers and technology. Since I was very young, I was interested in the digital world and its possibilities to create, communicate and transform. I studied civil engineering for a while at the University of Chile and specialized in web and mobile application development through some bootcamps. I have also recorded several books of poetry, where I explore themes such as identity, love, nature and society. I consider myself a curious person, creative and committed to my work and ideals. I like to learn new things, share my knowledge and collaborate with other professionals in the technological and literary fields.
 
 - [@WalterAlarconGarces](https://github.com/WalterAlarconGarces)
-## 🔗 Links
+## 🔗 Links & Recommendations
+- I recommend you to visit the [repositories section](https://github.com/WalterAlarconGarces?tab=repositories), for example, the following demo:  [Project 1](https://github.com/WalterAlarconGarces/animals)
+- And also the following links to my website and my LinkedIn:
 [![Web](https://img.shields.io/badge/Web-walteralarcongarces.cl-ffa1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.walteralarcongarces.cl)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-alarcon-garces/)
 [![Email](https://img.shields.io/badge/email-0AC2?style=for-the-badge&logo=email&logoColor=white)](mailto:walarcon@gmail.com)
