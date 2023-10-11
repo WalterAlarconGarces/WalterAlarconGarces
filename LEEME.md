@@ -2,7 +2,7 @@
 
 ## Select a language / Selecciona un idioma
 - [English](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ccd63baccfaa44b7eda9ec82cee6dd28cf213fa4/README.md)
-- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ccd63baccfaa44b7eda9ec82cee6dd28cf213fa4/LEEME.md)
+- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/882fcba982a7cdb6e997e4bdef21ff5c05925326/LEEME.md)
 
 
 ## Author 😉
