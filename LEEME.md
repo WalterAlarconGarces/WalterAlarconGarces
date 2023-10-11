@@ -1,8 +1,8 @@
 # ¡Hola, me llamo Walter Alarcón Garcés! 👋
 
 ## Select a language / Selecciona un idioma
-- [English](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ad4a4ca766627cebafe6bc7c8684561488b356ab/README.md)
-- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ad4a4ca766627cebafe6bc7c8684561488b356ab/LEEME.md)
+- [English](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ccd63baccfaa44b7eda9ec82cee6dd28cf213fa4/README.md)
+- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ccd63baccfaa44b7eda9ec82cee6dd28cf213fa4/LEEME.md)
 
 
 ## Author 😉
