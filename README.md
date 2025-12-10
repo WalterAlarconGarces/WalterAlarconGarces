@@ -1,49 +1,78 @@
-# Hi, I'm Walter Alarcón Garcés! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Walter%20Alarcón&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Math%20Enthusiast%20%7C%20Creative%20Mind&descAlignY=55&descAlign=50" alt="Walter Alarcón Header" width="100%"/>
+</div>
 
-## Select a language / Selecciona un idioma
-- [English](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/ccd63baccfaa44b7eda9ec82cee6dd28cf213fa4/README.md)
-- [Español](https://github.com/WalterAlarconGarces/WalterAlarconGarces/blob/882fcba982a7cdb6e997e4bdef21ff5c05925326/LEEME.md)
+<div align="center">
 
+# 👨‍💻 Hola, soy Walter Alarcón
 
-## Author 😉
-- My name is Walter Alarcón Garcés, a Chilean programmer and poet who has a great passion for computers and technology. Since I was very young, I was interested in the digital world and its possibilities to create, communicate and transform. I studied civil engineering for a while at the University of Chile and specialized in web and mobile application development through some bootcamps. I have also recorded several books of poetry, where I explore themes such as identity, love, nature and society. I consider myself a curious person, creative and committed to my work and ideals. I like to learn new things, share my knowledge and collaborate with other professionals in the technological and literary fields.
+### *Transformando lógica compleja en código elegante.*
 
-- [@WalterAlarconGarces](https://github.com/WalterAlarconGarces)
-## 🔗 Links & Recommendations
-- I recommend you to visit the [repositories section](https://github.com/WalterAlarconGarces?tab=repositories), for example, the following demo:  [Project 1](https://github.com/WalterAlarconGarces/animals)
-- And also the following links to my website and my LinkedIn:
-[![Web](https://img.shields.io/badge/Web-walteralarcongarces.cl-ffa1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.walteralarcongarces.cl)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-alarcon-garces/)
-[![Email](https://img.shields.io/badge/email-0AC2?style=for-the-badge&logo=email&logoColor=white)](mailto:walarcon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Walter_Alarcón-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/walter-alarcon-garces)
+[![Website](https://img.shields.io/badge/Portfolio-walteralarcon.cl-2ea44f?style=for-the-badge&logo=google-chrome)](https://www.walteralarcon.cl)
+[![Email](https://img.shields.io/badge/Email-Contáctame-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walarcon@gmail.com)
 
-## 🚀 About me and Skills 🛠
-I am a web developer with extensive knowledge in various topics related to programming, design and project management. I am passionate about creating innovative and efficient solutions to meet the needs of customers and users. I have experience in:
+</div>
 
-- Attention to people: I have worked in different sectors where I have had to interact with customers, suppliers and colleagues in a cordial and professional manner. I know how to listen, communicate and solve problems effectively.
-- Programming JavaScript, CSS, HTML: I am proficient in these fundamental languages for web development, both front-end and back-end. I can create dynamic, responsive and attractive web pages with best coding practices.
-- Node.js with Express, Handlebars js: I use this runtime environment and these frameworks to create robust and scalable web applications, with a modular architecture and a clean and organized code.
-- Bootstrap: I know this CSS framework that facilitates responsive web design and the use of predefined components to improve the user interface.
-- Ruby On Rails: I have experience in this Ruby framework that allows to develop web applications quickly, following the MVC paradigm and the principle of convention over configuration.
-- PostgreSQL and ORM Sequelize: I manage this relational database management system and this ORM that simplifies the connection and data manipulation between Node.js and PostgreSQL.
-- GIT, GitHub, Heroku, Amazon S3: I know how to use these tools for version control, code hosting, web application deployment and file storage in the cloud.
-- English proficiency: I have an advanced level of English, both written and spoken. I can communicate fluently with people from different countries and cultures, as well as read and write technical documentation in English.
-- Persevering, reliable and respectful: These are some of the qualities that define me as a professional and as a person. I strive to meet the proposed objectives, maintaining a positive and collaborative attitude. I am honest, responsible and respectful of diversity and other people's opinions.
-In addition, I have basic knowledge of Python and Scratch, two languages that I would like to deepen in the future.
+---
 
-## 📖 Academic 📚
-These are the stages of my academic training:
-- I am currently taking the Ruby On Rails Development program at Inforcap, where I learn to create dynamic and scalable web applications with this language and framework.
-- Last year I completed the Full Stack JavaScript Trainee Application Development course at Edutecno, where I acquired knowledge of HTML, CSS, JavaScript, Node.js and Express.
-- Between 2014 and 2015 I studied Foreign Trade and International Relations at CFT ICEL, but I dropped out in the second semester for personal reasons.
-- Before that, I tried to study Civil Engineering at two different universities: the University of Chile between 2010 and 2013, and the University of Santiago between 2006 and 2009. However, neither of the two careers convinced me and I dropped out in the second and fourth semester respectively.
+### 🚀 Sobre mí
 
-## ❤️All you need is me 👍
+Soy un **Desarrollador Web Full Stack** con base en Santiago de Chile. Mi background es poco convencional y esa es mi mayor fortaleza: combino la estructura mental de la **ingeniería y las matemáticas** con la creatividad de la **escritura y la poesía**.
 
-My experience and commitment to quality make me the ideal candidate to successfully complete your project. I have the technical knowledge and sense of responsibility required to meet your expectations and deliver a high level of work.
+Tengo experiencia enseñando ciencias exactas, lo que me ha dado una capacidad única para desglosar problemas complejos y explicarlos (o codificarlos) de forma sencilla. Me apasiona el aprendizaje continuo, pasando desde **Ruby on Rails** hasta **Next.js** y **Cálculo Avanzado**.
 
+> *"La programación es como la poesía: cada línea debe tener una razón de ser."*
 
-## 🔗 Links
-[![Web](https://img.shields.io/badge/Web-walteralarcongarces.cl-ffa1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://www.walteralarcongarces.cl)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-alarcon-garces/)
-[![Email](https://img.shields.io/badge/email-0AC2?style=for-the-badge&logo=email&logoColor=white)](mailto:walarcon@gmail.com)
+---
 
+### 🛠️ Tech Stack & Herramientas
+
+Me muevo con fluidez tanto en el Frontend como en el Backend. Aquí están mis armas principales:
+
+| **Frontend** | **Backend** | **Bases de Datos** | **Herramientas** |
+| :---: | :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white) | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) | ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white) | | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+### ⚡ ¿En qué estoy trabajando ahora?
+
+Soy un autodidacta incansable. Actualmente estoy profundizando mis conocimientos en:
+
+* 🔭 **Matemáticas avanzadas:** Cursando *Calculus 1 & 2* para fortalecer mi lógica algorítmica.
+* 🎨 **Diseño Web:** Perfeccionando el flujo de Figma a Webflow.
+* 🧠 **SQL Avanzado:** Optimizando consultas y relaciones de datos.
+
+---
+
+### 🌌 Más allá del Código
+
+No todo es `if` y `else`. Mi perfil humano incluye:
+
+* 📚 **Poeta publicado:** Tengo registro de propiedad intelectual de mis libros de poesía. La creatividad es vital para resolver bugs imposibles.
+* ➗ **Profesor:** Años enseñando matemáticas y física me enseñaron paciencia y comunicación clara.
+* 🔭 **Astronomía:** Me fascina mirar hacia arriba tanto como mirar el monitor.
+* 🗣️ **Idiomas:**
+    * 🇪🇸 Español (Nativo)
+    * 🇺🇸 Inglés (Avanzado - TOEFL Prep)
+    * 🇧🇷 Portugués (Básico)
+    * 🇨🇳 Chino Mandarín (Nociones básicas)
+
+---
+
+<div align="center">
+
+### 📊 Mis Estadísticas de GitHub
+
+![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
+  <sub>Diseñado con ❤️ por Walter Alarcón</sub>
+</div>
