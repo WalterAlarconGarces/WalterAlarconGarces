@@ -68,8 +68,8 @@ No todo es `if` y `else`. Mi perfil humano incluye:
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+![Walter's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterAlarconGarces&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterAlarconGarces&layout=compact&theme=radical)
 
 </div>
 
