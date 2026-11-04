@@ -27,7 +27,7 @@ My background bridges disciplines that rarely converge in a single professional:
 #### 💡 Why hire me or bring me onto your team?
 * **End-to-End Ownership:** Proven ability to take a product from UI/UX design in **Figma**, through frontend architectures in **Next.js 16 / React 19** and backend microservices in **Node.js / Express**, all the way to containerized production deployments using **Docker, Nginx, and Coolify** on Linux servers.
 * **Production-Grade Generative AI Integration:** Real-world implementation of the **Google Gemini API** and **Multimodal Vision**, prompt engineering with strict structured JSON outputs (`responseSchema`), fallback/resilience architectures, and real-time streaming via **Server-Sent Events (SSE)**.
-* **Defensive Security & *Privacy by Design*:** Rigorous application of **OWASP ASVS v4.0.3** standards, **CWE-250** mitigation (non-root containers), and technical compliance with data protection regulations (**Chilean Law No. 21,719 / GDPR** featuring immutable consent traceability and **ARCO-PB** data subject rights).
+* **Defensive Security & *Privacy by Design*:** Rigorous application of **OWASP ASVS v4.0.3 / OWASP A02:2025 / CIS Docker Benchmark** standards, **CWE-250** mitigation (non-root containers, `cap_drop: ALL`, `read_only` filesystems), and native compliance with Chilean & international regulations (**Law No. 21,719 / GDPR** featuring immutable consent traceability and **ARCO-PB / ARSOP** rights, **SII Tax Code** 6-year legal hold, **SERNAC RFC 8058** one-click unsubscribe, and **Law No. 21,663 ANCI/CSIRT** 3-hour early-warning breach management).
 * **Bilingual Communication & Business Empathy:** **Advanced English (C1)** proficiency for seamless collaboration with international teams, backed by senior professional maturity focused on meeting deadlines, elevating user experience, and delivering measurable business value.
 
 > *"Programming is much like poetry and engineering: every line must serve a clear purpose, rest on a solid structure, and be executed with elegance."*
@@ -36,7 +36,7 @@ My background bridges disciplines that rarely converge in a single professional:
 
 ### 🏆 Featured Production Projects
 
-Four complete platforms architected, developed, hardened, and deployed end-to-end in live production:
+Five complete platforms architected, developed, hardened, and deployed end-to-end in live production:
 
 | Project | Category & Architecture | Engineering Highlights & Key Features | Core Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -44,6 +44,7 @@ Four complete platforms architected, developed, hardened, and deployed end-to-en
 | 🐾 **[Compipa](https://compipa.cl)** | **Civic Animal Rescue Platform**<br>*(PWA + Microservices with BFF Proxy)* | • AI-assisted reporting powered by **Google Gemini Vision** for automated extraction of morphological pet traits from photos.<br>• Heuristic *Smart Matching* engine and *"Near Me"* GPS search using the geodesic **Haversine** formula.<br>• On-the-fly HD printable poster generator with vector QR codes and **Web Push (VAPID)** notifications. | `TypeScript` `Next.js 16` `React 19` `Tailwind v4` `Google Maps API` `Gemini Vision` `Node.js 20` `Express` `MySQL 8` `Redis 7` `Docker` |
 | 📖 **[Mi Biblia](https://mibiblia.org)** | **AI-Powered Educational & Exegetical Portal**<br>*(Decoupled SPA + REST API with SSE)* | • 14-dimensional hermeneutical analysis streamed progressively in real time via **Server-Sent Events (SSE)**.<br>• Interlinear Hebrew/Greek lexical dictionary with Strong's concordance, parallel version comparator, and native voice reading (**Web Speech API / TTS**).<br>• **In-memory LRU cache** with dynamic TTL (< 50 ms latency) and **HTML5 Canvas** visual verse studio. | `TypeScript` `React 19` `Vite 6` `Gemini 3.7 Flash` `OpenRouter` `Node.js 20` `Express 5` `SSE` `Nginx Unprivileged` `Docker` |
 | 🌐 **[Walter Alarcón Platform](https://walteralarcon.cl)** | **Engineering Showcase, AI ATS & IoT**<br>*(Decoupled Client-Server Architecture)* | • Live **AI ATS Job-Fit Evaluator** and Career Copilot delivering strict structured JSON evaluations.<br>• Real-time **IoT environmental telemetry (Tuya Cloud API)** for CO₂, PM2.5, VOC, temperature, and humidity with **HMAC-SHA256** cryptographic signing and AI diagnostics.<br>• Dual blog engine (Native + **Headless WordPress REST API**) and **OWASP ASVS / CWE-250** security hardening. | `TypeScript` `Next.js 16` `React 19` `Tailwind v4` `Gemini 2.5 Flash` `Tuya IoT` `Node.js 20` `Express 5` `MySQL 8` `Docker` |
+| 🏢 **[WalterWeb](https://walterweb.cl)** | **B2B Client Portal, Project Tracker & Regulatory Compliance Engine**<br>*(Decoupled Client-Server Monorepo)* | • Real-time B2B client portal for hierarchical tracking of software projects, milestones, billing status, subtasks (`DEV`/`CLIENT`), immutable engineering logs, and live **API Explorer**.<br>• Comprehensive Chilean regulatory compliance engine: **Law No. 21,719 (ARSOP rights + append-only `HMAC-SHA256` consent logs)**, **SII Tax Code (`SII_LEGAL_HOLD` 6-year retention & Modulo 11 RUT validation)**, **SERNAC (`RFC 8058` 1-click unsubscribe)**, and **Law No. 21,663 ANCI/CSIRT (3-hour breach early warning)**.<br>• Automated security & compliance test suite (**Vitest + Supertest**), anti-BOLA/CSRF/SSRF guards, and **CIS Docker Benchmark** container hardening (`cap_drop: ALL`, `read_only`). | `TypeScript` `Next.js 16` `React 19` `React Compiler` `Tailwind v4` `Node.js 22` `Express 5` `MySQL 8.4` `Sequelize` `Zod 4` `Vitest` `Docker` |
 
 > 💡 **Want to evaluate my fit for your open role?** Visit **[walteralarcon.cl](https://www.walteralarcon.cl)** and paste your job description into my live **AI ATS Job-Fit Evaluator** to get an instant technical compatibility analysis.
 
@@ -83,17 +84,18 @@ Four complete platforms architected, developed, hardened, and deployed end-to-en
 ![Coolify](https://img.shields.io/badge/Coolify_PaaS-6B21A8?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu_&_Alpine-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP_ASVS_&_CWE--250-000000?style=flat-square&logo=owasp&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest_&_Supertest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_Platform-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma_&_Webflow-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 
 | Domain | Applied Technical Competencies |
 | :--- | :--- |
-| **Frontend Architecture** | App Router, React Server Components (RSC), SSR / SSG / ISR, Global State (Redux Toolkit / Context API), Technical SEO (Schema.org JSON-LD, OpenGraph), WCAG 2.2 AA Accessibility, HTML5 Canvas, Web Speech API (TTS). |
-| **Backend Engineering** | Monorepos (`npm workspaces`), API Gateway (`http-proxy-middleware`), BFF Pattern, Semantic RESTful APIs, SSE Streaming, WebP Image Processing (`Multer` + `Sharp`), Transactional Email (`Nodemailer`), Push Notifications (`Web-Push` VAPID). |
-| **Data & Caching** | Entity-Relationship modeling, ACID transactions, composite indexing, migrations, in-memory LRU cache with dynamic TTL and smart eviction, Redis 7 queues and session stores. |
+| **Frontend Architecture** | App Router, React Server Components (RSC), React Compiler (`babel-plugin-react-compiler`), SSR / SSG / ISR, Global State (Redux Toolkit / Context API), Technical SEO/GEO (Schema.org JSON-LD, OpenGraph, `llms.txt`), WCAG 2.2 AA Accessibility, HTML5 Canvas, Web Speech API (TTS). |
+| **Backend Engineering** | Monorepos (`npm workspaces`), API Gateway (`http-proxy-middleware`), BFF Pattern, Semantic RESTful APIs, SSE Streaming, Automated Testing (`Vitest` + `Supertest`), WebP Image Processing (`Multer` + `Sharp`), Transactional Email (`Nodemailer`), Push Notifications (`Web-Push` VAPID). |
+| **Data & Caching** | Entity-Relationship modeling (UUIDv4, soft-delete / `paranoid`), ACID transactions, composite indexing, migrations, in-memory LRU cache with dynamic TTL and smart eviction, Redis 7 queues and session stores. |
 | **AI & IoT Hardware** | Prompt engineering, structured JSON output (`responseSchema`), morphological extraction with Gemini Vision, fault tolerance with exponential backoff retries, Tuya Cloud IoT environmental telemetry with HMAC-SHA256 signing. |
-| **Security & Privacy** | JWT authentication with instant revocation (`tokenVersion`), `HttpOnly`/`Secure` cookies, `bcrypt`, RBAC, `Helmet` (CSP/HSTS), Rate Limiting, `DOMPurify` sanitization, `Zod` validation, Chilean Law 21,719 / GDPR compliance (ARCO-PB rights). |
+| **Security & Privacy** | Dual JWT + `HttpOnly`/`__Host-token` cookies, `bcrypt` with timing-attack mitigation, RBAC & anti-BOLA/IDOR, `Helmet` (CSP/HSTS), multi-layer Rate Limiting, anti-CSRF/SSRF guards, `DOMPurify`, strict `Zod` schemas, CIS Docker hardening (`cap_drop: ALL`, `read_only`), Chilean Law 21,719 / GDPR (ARCO-PB / ARSOP), SII 6-year tax hold (`SII_LEGAL_HOLD`), SERNAC RFC 8058 & ANCI Law 21,663. |
 
 ---
 

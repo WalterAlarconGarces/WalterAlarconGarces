@@ -27,7 +27,7 @@ Mi perfil une mundos que rara vez coinciden en un solo profesional: **el rigor a
 #### 💡 ¿Por qué contratarme o sumarme a tu equipo?
 * **Autonomía Integral (*End-to-End*):** Capacidad demostrada para llevar un producto desde el diseño UI/UX en **Figma**, pasando por arquitecturas frontend en **Next.js 16 / React 19** y microservicios en **Node.js / Express**, hasta su despliegue contenerizado con **Docker, Nginx y Coolify** sobre servidores Linux.
 * **Integración Real de IA Generativa:** Implementación en producción de **Google Gemini API** y **Visión Multimodal**, ingeniería de prompts con salidas estructuradas forzadas en JSON (`responseSchema`), arquitecturas de contingencia y transmisión en tiempo real vía **Server-Sent Events (SSE)**.
-* **Seguridad Defensiva y *Privacy by Design*:** Aplicación rigurosa de estándares **OWASP ASVS v4.0.3**, mitigación **CWE-250** (contenedores sin privilegios *root*) y cumplimiento técnico de normativas de protección de datos (**Ley N° 21.719 de Chile / RGPD** con trazabilidad inmutable de consentimientos y derechos **ARCO-PB**).
+* **Seguridad Defensiva y *Privacy by Design*:** Aplicación rigurosa de estándares **OWASP ASVS v4.0.3 / OWASP A02:2025 / CIS Docker Benchmark**, mitigación **CWE-250** (contenedores sin privilegios *root*, `cap_drop: ALL`, `read_only`) y cumplimiento técnico nativo de normativas chilenas e internacionales (**Ley N° 21.719 / RGPD** con trazabilidad inmutable de consentimientos y derechos **ARCO-PB / ARSOP**, **Código Tributario SII** con reserva legal a 6 años, **SERNAC RFC 8058** de baja en 1 clic y **Ley Marco de Ciberseguridad N° 21.663 ANCI/CSIRT** con alerta temprana de 3 horas).
 * **Comunicación Bilingüe y Empatía de Negocio:** Nivel de **Inglés Avanzado (C1)** para colaborar de forma fluida con equipos internacionales, sumado a una madurez profesional orientada a cumplir plazos, cuidar la experiencia del usuario final y aportar valor comercial tangible.
 
 > *"La programación es como la poesía y la ingeniería: cada línea debe tener un propósito claro, una estructura sólida y una ejecución elegante."*
@@ -36,7 +36,7 @@ Mi perfil une mundos que rara vez coinciden en un solo profesional: **el rigor a
 
 ### 🏆 Proyectos Destacados en Producción
 
-Cuatro plataformas completas diseñadas, desarrolladas, aseguradas y desplegadas íntegramente en producción:
+Cinco plataformas completas diseñadas, desarrolladas, aseguradas y desplegadas íntegramente en producción:
 
 | Proyecto | Categoría & Arquitectura | Hitos de Ingeniería & Funcionalidades Clave | Stack Principal |
 | :--- | :--- | :--- | :--- |
@@ -44,6 +44,7 @@ Cuatro plataformas completas diseñadas, desarrolladas, aseguradas y desplegadas
 | 🐾 **[Compipa](https://compipa.cl)** | **Plataforma Cívica de Rescate Animal**<br>*(PWA + Microservicios con BFF Proxy)* | • Publicación asistida por **Google Gemini Vision** para extracción automática de rasgos morfológicos desde fotografías.<br>• Algoritmo heurístico de coincidencia inteligente (*Smart Matching*) y búsqueda GPS *"Cerca de mí"* con fórmula geodésica de **Haversine**.<br>• Generador dinámico de afiches imprimibles en HD con códigos QR vectoriales al vuelo y notificaciones **Web Push (VAPID)**. | `TypeScript` `Next.js 16` `React 19` `Tailwind v4` `Google Maps API` `Gemini Vision` `Node.js 20` `Express` `MySQL 8` `Redis 7` `Docker` |
 | 📖 **[Mi Biblia](https://mibiblia.org)** | **Portal Educativo y Exegético con IA**<br>*(SPA Desacoplada + API REST con SSE)* | • Análisis hermenéutico en 14 dimensiones transmitido progresivamente en tiempo real vía **Server-Sent Events (SSE)**.<br>• Diccionario léxico interlineal hebreo/griego con concordancia Strong, comparador paralelo y lectura por voz nativa (**Web Speech API / TTS**).<br>• Caché **LRU en memoria** con TTL dinámico (latencias < 50 ms) y estudio gráfico en **HTML5 Canvas**. | `TypeScript` `React 19` `Vite 6` `Gemini 3.7 Flash` `OpenRouter` `Node.js 20` `Express 5` `SSE` `Nginx Unprivileged` `Docker` |
 | 🌐 **[Walter Alarcón Platform](https://walteralarcon.cl)** | **Showcase de Ingeniería, ATS IA & IoT**<br>*(Arquitectura Cliente-Servidor Desacoplada)* | • **Evaluador ATS de compatibilidad laboral** en vivo y Copiloto de Carrera con salidas estructuradas en JSON estricto.<br>• Telemetría ambiental **IoT en tiempo real (Tuya Cloud API)** para CO₂, PM2.5, VOC, temperatura y humedad con firma criptográfica **HMAC-SHA256** y diagnóstico por IA.<br>• Doble motor de blog (Nativo + **Headless WordPress REST API**) y hardening **OWASP ASVS / CWE-250**. | `TypeScript` `Next.js 16` `React 19` `Tailwind v4` `Gemini 2.5 Flash` `Tuya IoT` `Node.js 20` `Express 5` `MySQL 8` `Docker` |
+| 🏢 **[WalterWeb](https://walterweb.cl)** | **Portal B2B de Clientes, Gestión de Proyectos & Cumplimiento Normativo**<br>*(Monorepo Cliente-Servidor Desacoplado)* | • Portal transaccional B2B en tiempo real para seguimiento jerárquico de proyectos de software, hitos (*milestones*), estados de pago, subtareas (`DEV`/`CLIENT`), bitácoras inmutables y **API Explorer** interactivo.<br>• Motor integral de cumplimiento legal chileno: **Ley N° 21.719 (derechos ARSOP + bitácora *append-only* con `HMAC-SHA256`)**, **Código Tributario SII (retención a 6 años `SII_LEGAL_HOLD` y validación RUT Módulo 11)**, **SERNAC (`RFC 8058` baja en 1 clic)** y **Ley N° 21.663 ANCI/CSIRT (alerta temprana de brechas en 3 h)**.<br>• Suite de pruebas automatizadas (**Vitest + Supertest**), defensas anti-BOLA/CSRF/SSRF y hardening **CIS Docker Benchmark** (`cap_drop: ALL`, `read_only`). | `TypeScript` `Next.js 16` `React 19` `React Compiler` `Tailwind v4` `Node.js 22` `Express 5` `MySQL 8.4` `Sequelize` `Zod 4` `Vitest` `Docker` |
 
 > 💡 **¿Quieres evaluar mi perfil para tu vacante?** En **[walteralarcon.cl](https://www.walteralarcon.cl)** puedes pegar la descripción de tu oferta laboral en mi **Evaluador ATS con IA** para obtener al instante un análisis de compatibilidad técnica.
 
@@ -83,17 +84,18 @@ Cuatro plataformas completas diseñadas, desarrolladas, aseguradas y desplegadas
 ![Coolify](https://img.shields.io/badge/Coolify_PaaS-6B21A8?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu_&_Alpine-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP_ASVS_&_CWE--250-000000?style=flat-square&logo=owasp&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest_&_Supertest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps_Platform-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma_&_Webflow-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
 
 | Dominio | Competencias Técnicas Aplicadas |
 | :--- | :--- |
-| **Arquitectura Frontend** | App Router, React Server Components (RSC), SSR / SSG / ISR, Estado global (Redux Toolkit / Context API), SEO técnico (Schema.org JSON-LD, OpenGraph), Accesibilidad WCAG 2.2 AA, HTML5 Canvas, Web Speech API (TTS). |
-| **Ingeniería Backend** | Monorepos (`npm workspaces`), API Gateway (`http-proxy-middleware`), Patrón BFF, APIs RESTful semánticas, Streaming SSE, Procesamiento de imágenes a WebP (`Multer` + `Sharp`), Mailing (`Nodemailer`), Notificaciones Push (`Web-Push` VAPID). |
-| **Datos & Caché** | Modelado entidad-relación, transacciones ACID, índices compuestos, migraciones, caché en memoria LRU con TTL dinámico y desalojo inteligente, colas y sesiones en Redis 7. |
+| **Arquitectura Frontend** | App Router, React Server Components (RSC), React Compiler (`babel-plugin-react-compiler`), SSR / SSG / ISR, Estado global (Redux Toolkit / Context API), SEO/GEO técnico (Schema.org JSON-LD, OpenGraph, `llms.txt`), Accesibilidad WCAG 2.2 AA, HTML5 Canvas, Web Speech API (TTS). |
+| **Ingeniería Backend** | Monorepos (`npm workspaces`), API Gateway (`http-proxy-middleware`), Patrón BFF, APIs RESTful semánticas, Streaming SSE, Testing Automatizado (`Vitest` + `Supertest`), Procesamiento de imágenes a WebP (`Multer` + `Sharp`), Mailing (`Nodemailer`), Notificaciones Push (`Web-Push` VAPID). |
+| **Datos & Caché** | Modelado entidad-relación (UUIDv4, borrado lógico / `paranoid`), transacciones ACID, índices compuestos, migraciones, caché en memoria LRU con TTL dinámico y desalojo inteligente, colas y sesiones en Redis 7. |
 | **IA & Hardware IoT** | Ingeniería de prompts, modo JSON estructurado (`responseSchema`), extracción morfológica con Gemini Vision, tolerancia a fallos con reintentos exponenciales, telemetría ambiental Tuya Cloud IoT con firma HMAC-SHA256. |
-| **Seguridad & Privacidad** | Autenticación JWT con revocación instantánea (`tokenVersion`), cookies `HttpOnly`/`Secure`, `bcrypt`, RBAC, `Helmet` (CSP/HSTS), Rate Limiting, sanitización `DOMPurify`, validación `Zod`, cumplimiento Ley 21.719 / RGPD (derechos ARCO-PB). |
+| **Seguridad & Privacidad** | Autenticación dual JWT + cookies `HttpOnly`/`__Host-token`, `bcrypt` con mitigación de *timing attacks*, RBAC y defensas anti-BOLA/IDOR, `Helmet` (CSP/HSTS), Rate Limiting multicapa, guardias anti-CSRF/SSRF, `DOMPurify`, esquemas estrictos `Zod`, hardening CIS Docker (`cap_drop: ALL`, `read_only`), Ley 21.719 / RGPD (ARCO-PB / ARSOP), Reserva Tributaria SII 6 años (`SII_LEGAL_HOLD`), SERNAC RFC 8058 y Ley 21.663 ANCI. |
 
 ---
 
